@@ -1,0 +1,25 @@
+{
+  "short_name": "Nano Vanity",
+  "name": "Nano Vanity Address Generator",
+  "icons": [
+    {
+      "src": "favicon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#4A90E2",
+  "background_color": "#000034"
+}
