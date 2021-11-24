@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/p5IMaf7.png"/>
+<img src="https://raw.github.com/Niush/nano-vanity/master/public/banner.png"/>
 
 ## Nano Vanity
 
